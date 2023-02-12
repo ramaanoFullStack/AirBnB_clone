@@ -8,7 +8,7 @@
 ╚═╝░░╚═╝╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚══╝╚═════╝░  ░╚════╝░╚══════╝░╚════╝░╚═╝░░╚══╝╚══════╝
 ```
 
-![AirBnB](assets/hbnb_logo.png)
+![AirBnB](https://drive.google.com/file/d/1ea2K4DorCC2SJ4jmpbEO7vmcFNdD8WpN/view?usp=sharing)
 
 ## DESCRIPTION
 
@@ -18,7 +18,7 @@ This is part 1 of our AirBnb Clone project. The purpose of this project is to ma
 
 #### Data Diagram
 
-![data_diagram](assets/data_diagram.jpg)
+![data_diagram](https://drive.google.com/file/d/14bCCwii5r1M1c_QZgFrsxQ7QYmp7n7D5/view?usp=sharing)
 
 ## CONCEPTS LEARNT
 
